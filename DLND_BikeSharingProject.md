@@ -1,4 +1,6 @@
-# DLND-Bike-Sharing-Project
+
+# Your first neural network
+
 In this project, you'll build your first neural network and use it to predict daily bike rental ridership. We've provided some of the code, but left the implementation of the neural network up to you (for the most part). After you've submitted this project, feel free to explore the data and the model more.
 
 
@@ -744,3 +746,9 @@ In my_answers.py file, there are three hyperparameters, learning rate, hidden_no
 As an experiement, i wanted to try a deeper neural network and i used three hidden layers but as it is shown above the simpler model has almost the same losses as the complicated model. For this problem the simpler model is way to go. The complicated model took a longer time to train.
 
 As an improvement, weight initialization, and learning rate parameters can be fine tunned. For example, learning rate can be bigger at the beggining of the training and it get smaller which 
+
+Answer these questions about your results. How well does the model predict the data? Where does it fail? Why does it fail where it does?
+
+> **Note:** You can edit the text in this cell by double clicking on it. When you want to render the text, press control + enter
+
+#### Your answer below
